@@ -6,43 +6,43 @@ title: Aaron Zuñiga
 superuser: true
 
 # Role/position/tagline
-role: Systems Engineering Student
+role: Estudiante de Ingeniería de Sistemas
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Cesar Vallejo University
+  - name: Universidad César Vallejo
     url: https://www.ucv.edu.pe/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - Computer Science
-  - Artificial Intelligence
+intereses:
+  - Ciencias de la Computación
+  - Inteligencia artificial
   - IoT
 
 # Education to show in About widget
-education:
+educación:
   courses:
-    - course: BEng in Systems Engineering
-      institution: Cesar Vallejo University
+    - course: Ingeniería de Sistemas
+      institution: Universidad César Vallejo
       year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "aazunigacondori@example.com" or "/#contact" for contact widget.
+#   form "aazunigacondori@gmail.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/zunigcn
+    link: https://twitter.com/zunigcon
   - icon: github
     icon_pack: fab
-    link: https://github.com/zunigcn
+    link: https://github.com/zunigcon
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/aaron-zu%C3%B1iga/
